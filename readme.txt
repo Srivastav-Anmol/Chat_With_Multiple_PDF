@@ -1,6 +1,7 @@
 Required Applications:- VS Code, Anaconda/Miniconda(Create environment variables for the system which detects the Path of the variable), internet connection.
 Follow the steps:-
 a. Open the project using VsCode and run new terminal to create an environment by typing the following command:
+     ** Do not copy venv folder.
      >>conda create -p environmentVarName python==version(mainly greater than 3.9)
      >>conda activate environmentVarName/
      >>cls
